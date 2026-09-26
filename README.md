@@ -8,7 +8,7 @@
   <a href="https://github.com/woruka">
     <img 
       height="180em"
-      src="https://github-readme-stats-umber-six-46.vercel.app/api?username=woruka&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&bg_color=f6f8fa&title_color=0366d6&icon_color=0366d6&text_color=24292e"
+      src="https://github-readme-stats-umber-six-46.vercel.app/api?username=woruka&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=f6f8fa&title_color=0366d6&icon_color=0366d6&text_color=24292e"
       alt="GitHub Stats"
     />
     <img 
